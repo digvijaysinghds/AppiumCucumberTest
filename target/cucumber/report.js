@@ -91,3 +91,50 @@ formatter.step({
 formatter.match({
   "location": "com.qa.stepdef.CalendarStepDef.iWantToBookAMeetingWithTitle(java.lang.String)"
 });
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Set meeting duration as \"9\" in the evening",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.qa.stepdef.CalendarStepDef.setMeetingDurationAsInTheEvening(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Meeting is not repeated on successive days",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.qa.stepdef.CalendarStepDef.meetingIsNotRepeatedOnSuccessiveDays()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I save the meeting",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.qa.stepdef.CalendarStepDef.iSaveTheMeeting()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I check that meeting is created as expected",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.qa.stepdef.CalendarStepDef.iCheckThatMeetingIsCreatedAsExpected()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+});

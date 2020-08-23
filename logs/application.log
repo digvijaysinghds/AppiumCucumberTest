@@ -1,189 +1,52 @@
-[INFO ] 2020-08-23 19:11:55.016 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:12:04.762 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 19:12:15.459 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 19:12:28.138 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 19:12:47.704 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 19:13:07.376 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 19:13:26.637 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 19:13:35.952 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 19:13:45.231 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 19:13:54.233 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 19:14:02.623 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 19:14:11.625 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 19:14:20.752 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 19:14:29.824 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 19:14:38.891 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 19:14:47.959 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 19:14:57.392 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:18:19.112 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:18:28.633 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 19:18:39.704 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 19:18:52.205 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 19:19:11.853 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 19:19:31.285 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 19:19:50.662 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 19:19:59.810 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 19:20:08.919 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 19:20:17.959 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 19:20:26.308 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 19:20:35.363 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 19:20:44.346 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 19:20:53.383 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 19:21:02.514 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 19:21:11.652 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 19:21:21.021 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:21:21.023 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 19:24:58.456 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:25:07.908 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 19:25:18.557 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 19:25:31.184 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 19:25:50.788 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 19:26:10.316 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 19:26:29.673 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 19:26:39.062 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 19:26:48.298 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 19:26:57.488 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 19:27:05.685 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 19:27:14.863 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 19:27:24.010 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 19:27:33.208 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 19:27:41.988 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 19:27:51.071 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 19:28:00.364 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:28:00.366 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 19:32:04.170 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:32:13.995 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 19:32:24.578 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 19:32:37.231 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 19:32:57.142 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 19:33:16.749 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 19:33:36.196 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 19:33:45.587 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 19:33:54.792 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 19:34:03.960 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 19:34:12.152 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 19:34:21.314 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 19:34:30.430 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 19:34:39.542 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 19:34:48.480 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 19:34:57.791 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 19:35:07.211 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:35:07.214 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 19:55:13.973 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 19:55:41.321 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 19:56:10.991 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 19:56:42.292 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 19:57:39.527 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 19:58:36.695 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 19:59:33.677 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 20:00:00.412 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 20:00:27.194 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 20:00:53.635 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 20:01:17.627 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 20:01:44.054 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 20:02:10.743 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 20:02:37.213 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 20:03:03.306 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 20:03:29.689 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 20:03:56.573 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:03:56.577 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 20:18:20.370 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:18:30.062 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 20:18:41.090 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 20:18:53.839 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 20:19:13.104 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 20:19:32.225 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 20:19:51.543 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 20:20:00.729 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 20:20:10.066 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 20:20:18.859 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 20:20:27.232 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 20:20:36.078 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 20:20:45.274 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 20:20:54.520 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 20:21:03.566 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 20:21:12.534 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 20:21:21.908 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:21:21.911 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 20:39:49.876 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:39:59.403 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 20:40:10.073 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 20:40:22.788 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 20:40:42.660 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 20:41:01.808 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 20:41:21.420 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 20:41:30.580 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 20:41:39.862 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 20:41:48.956 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 20:41:57.260 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 20:42:06.392 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 20:42:15.644 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 20:42:24.757 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 20:42:33.561 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 20:42:42.639 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 20:42:51.922 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:42:51.926 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 20:49:41.119 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:49:50.637 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 20:50:01.370 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 20:50:14.117 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 20:50:33.588 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 20:50:52.910 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 20:51:12.611 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 20:51:21.798 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 20:51:30.887 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 20:51:40.168 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 20:51:48.567 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 20:51:57.532 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 20:52:06.842 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 20:52:15.944 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 20:52:24.794 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 20:52:33.666 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 20:52:43.181 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 20:52:43.184 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 21:11:56.182 CalendarAllPage:59 - Clicked on add new meeting
-[INFO ] 2020-08-23 21:12:22.440 CalendarAllPage:65 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 21:12:50.755 CalendarAllPage:71 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 21:13:20.966 CalendarAllPage:73 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 21:14:15.657 CalendarAllPage:77 - Set start time as-> 9
-[INFO ] 2020-08-23 21:15:09.908 CalendarAllPage:81 - Set start minute as 00
-[INFO ] 2020-08-23 21:16:04.503 CalendarAllPage:85 - Set morning slot
-[INFO ] 2020-08-23 21:16:30.281 CalendarAllPage:90 - Clicked on repeat element
-[INFO ] 2020-08-23 21:16:55.799 CalendarAllPage:92 - Clicked on custom element
-[INFO ] 2020-08-23 21:17:21.183 CalendarAllPage:94 - Clicked on frequency element
-[INFO ] 2020-08-23 21:17:44.192 CalendarAllPage:96 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 21:18:09.621 CalendarAllPage:103 - Monday selected from UI
-[INFO ] 2020-08-23 21:18:35.138 CalendarAllPage:105 - Wednesday selected from UI
-[INFO ] 2020-08-23 21:19:00.207 CalendarAllPage:107 - Friday selected from UI
-[INFO ] 2020-08-23 21:19:25.321 CalendarAllPage:112 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 21:19:50.340 CalendarAllPage:114 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 21:20:15.719 CalendarAllPage:116 - Clicked on add new meeting
-[INFO ] 2020-08-23 21:20:15.727 CalendarAllPage:120 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 22:13:45.302 CalendarAllPage:58 - Clicked on add new meeting
-[INFO ] 2020-08-23 22:14:32.465 CalendarAllPage:64 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 22:15:23.711 CalendarAllPage:70 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 22:18:57.470 CalendarAllPage:58 - Clicked on add new meeting
-[INFO ] 2020-08-23 22:20:54.679 CalendarAllPage:64 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 22:27:44.277 CalendarAllPage:61 - Clicked on continue Button
-[INFO ] 2020-08-23 22:27:46.214 CalendarAllPage:63 - Clicked on add new meeting
-[INFO ] 2020-08-23 22:30:00.451 CalendarAllPage:61 - Clicked on continue Button
-[INFO ] 2020-08-23 22:30:02.619 CalendarAllPage:63 - Clicked on add new meeting
-[INFO ] 2020-08-23 22:32:02.809 CalendarAllPage:69 - Enter the meeting name as: -> Recurring-Team Catch Up
-[INFO ] 2020-08-23 22:32:06.994 CalendarAllPage:75 - Clicked on Start element to set Start Date and Time
-[INFO ] 2020-08-23 22:32:12.543 CalendarAllPage:77 - Set Start Date as Tomorrow's Date
-[INFO ] 2020-08-23 22:32:16.295 CalendarAllPage:81 - Set start time as-> 9
-[INFO ] 2020-08-23 22:32:19.902 CalendarAllPage:85 - Set start minute as 00
-[INFO ] 2020-08-23 22:32:23.671 CalendarAllPage:89 - Set morning slot
-[INFO ] 2020-08-23 22:32:25.820 CalendarAllPage:94 - Clicked on repeat element
-[INFO ] 2020-08-23 22:32:27.682 CalendarAllPage:96 - Clicked on custom element
-[INFO ] 2020-08-23 22:32:29.372 CalendarAllPage:98 - Clicked on frequency element
-[INFO ] 2020-08-23 22:32:31.091 CalendarAllPage:100 - Scroll and select weekly meeting
-[INFO ] 2020-08-23 22:32:32.813 CalendarAllPage:107 - Monday selected from UI
-[INFO ] 2020-08-23 22:32:34.691 CalendarAllPage:109 - Wednesday selected from UI
-[INFO ] 2020-08-23 22:32:36.578 CalendarAllPage:111 - Friday selected from UI
-[INFO ] 2020-08-23 22:32:38.438 CalendarAllPage:116 - Navigate back by clicking repeat button
-[INFO ] 2020-08-23 22:32:40.430 CalendarAllPage:118 - Navigate back by clicking on new Evenet buttom
-[INFO ] 2020-08-23 22:32:43.300 CalendarAllPage:120 - Clicked on add new meeting
-[INFO ] 2020-08-23 22:32:43.303 CalendarAllPage:124 - Verifying meeting is created and Calendar home page is displayed
-[INFO ] 2020-08-23 22:37:05.634 CalendarAllPage:61 - Clicked on continue Button
-[INFO ] 2020-08-23 22:37:08.030 CalendarAllPage:63 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:27:52.868 CalendarAllPage:65 - Clicked on continue Button
+[INFO ] 2020-08-24 09:27:53.877 CalendarAllPage:67 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:29:52.060 CalendarAllPage:73 - Enter the meeting name as: -> Recurring-Team Catch Up
+[INFO ] 2020-08-24 09:29:54.810 CalendarAllPage:79 - Clicked on Start element to set Start Date and Time
+[INFO ] 2020-08-24 09:30:00.210 CalendarAllPage:81 - Set Start Date as Tomorrow's Date
+[INFO ] 2020-08-24 09:30:03.857 CalendarAllPage:85 - Set start time as-> 9
+[INFO ] 2020-08-24 09:30:07.322 CalendarAllPage:89 - Set start minute as 00
+[INFO ] 2020-08-24 09:30:11.279 CalendarAllPage:93 - Set morning slot
+[INFO ] 2020-08-24 09:30:13.207 CalendarAllPage:98 - Clicked on repeat element
+[INFO ] 2020-08-24 09:30:14.860 CalendarAllPage:100 - Clicked on custom element
+[INFO ] 2020-08-24 09:30:16.326 CalendarAllPage:102 - Clicked on frequency element
+[INFO ] 2020-08-24 09:30:17.801 CalendarAllPage:104 - Scroll and select weekly meeting
+[INFO ] 2020-08-24 09:30:19.496 CalendarAllPage:111 - Monday selected from UI
+[INFO ] 2020-08-24 09:30:21.219 CalendarAllPage:113 - Wednesday selected from UI
+[INFO ] 2020-08-24 09:30:22.891 CalendarAllPage:115 - Friday selected from UI
+[INFO ] 2020-08-24 09:30:24.597 CalendarAllPage:120 - Navigate back by clicking repeat button
+[INFO ] 2020-08-24 09:30:26.466 CalendarAllPage:122 - Navigate back by clicking on new Evenet buttom
+[INFO ] 2020-08-24 09:30:28.848 CalendarAllPage:124 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:30:28.853 CalendarAllPage:128 - Verifying meeting is created and Calendar home page is displayed
+[INFO ] 2020-08-24 09:37:08.090 CalendarAllPage:65 - Clicked on continue Button
+[INFO ] 2020-08-24 09:37:09.942 CalendarAllPage:67 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:37:12.639 CalendarAllPage:73 - Enter the meeting name as: -> Recurring-Team Catch Up
+[INFO ] 2020-08-24 09:37:15.149 CalendarAllPage:79 - Clicked on Start element to set Start Date and Time
+[INFO ] 2020-08-24 09:37:19.781 CalendarAllPage:81 - Set Start Date as Tomorrow's Date
+[INFO ] 2020-08-24 09:37:23.194 CalendarAllPage:85 - Set start time as-> 9
+[INFO ] 2020-08-24 09:37:26.587 CalendarAllPage:89 - Set start minute as 00
+[INFO ] 2020-08-24 09:37:29.955 CalendarAllPage:93 - Set morning slot
+[INFO ] 2020-08-24 09:37:31.721 CalendarAllPage:98 - Clicked on repeat element
+[INFO ] 2020-08-24 09:37:33.332 CalendarAllPage:100 - Clicked on custom element
+[INFO ] 2020-08-24 09:37:34.967 CalendarAllPage:102 - Clicked on frequency element
+[INFO ] 2020-08-24 09:37:36.572 CalendarAllPage:104 - Scroll and select weekly meeting
+[INFO ] 2020-08-24 09:37:38.430 CalendarAllPage:111 - Monday selected from UI
+[INFO ] 2020-08-24 09:37:40.589 CalendarAllPage:113 - Wednesday selected from UI
+[INFO ] 2020-08-24 09:38:32.198 CalendarAllPage:65 - Clicked on continue Button
+[INFO ] 2020-08-24 09:38:34.187 CalendarAllPage:67 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:40:33.014 CalendarAllPage:73 - Enter the meeting name as: -> Recurring-Team Catch Up
+[INFO ] 2020-08-24 09:40:35.888 CalendarAllPage:79 - Clicked on Start element to set Start Date and Time
+[INFO ] 2020-08-24 09:40:41.572 CalendarAllPage:81 - Set Start Date as Tomorrow's Date
+[INFO ] 2020-08-24 09:40:45.336 CalendarAllPage:85 - Set start time as-> 9
+[INFO ] 2020-08-24 09:40:49.239 CalendarAllPage:89 - Set start minute as 00
+[INFO ] 2020-08-24 09:40:53.072 CalendarAllPage:93 - Set morning slot
+[INFO ] 2020-08-24 09:40:55.081 CalendarAllPage:98 - Clicked on repeat element
+[INFO ] 2020-08-24 09:40:56.844 CalendarAllPage:100 - Clicked on custom element
+[INFO ] 2020-08-24 09:40:58.354 CalendarAllPage:102 - Clicked on frequency element
+[INFO ] 2020-08-24 09:40:59.862 CalendarAllPage:104 - Scroll and select weekly meeting
+[INFO ] 2020-08-24 09:41:01.633 CalendarAllPage:111 - Monday selected from UI
+[INFO ] 2020-08-24 09:41:03.493 CalendarAllPage:113 - Wednesday selected from UI
+[INFO ] 2020-08-24 09:41:05.223 CalendarAllPage:115 - Friday selected from UI
+[INFO ] 2020-08-24 09:41:06.985 CalendarAllPage:120 - Navigate back by clicking repeat button
+[INFO ] 2020-08-24 09:41:08.852 CalendarAllPage:122 - Navigate back by clicking on new Evenet buttom
+[INFO ] 2020-08-24 09:41:11.069 CalendarAllPage:124 - Clicked on add new meeting
+[INFO ] 2020-08-24 09:41:11.072 CalendarAllPage:128 - Verifying meeting is created and Calendar home page is displayed
