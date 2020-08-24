@@ -61,22 +61,26 @@ public class CalendarAllPage extends BasePage{
     private MobileElement addBtn;
 
     public void addEvent(){
+        Assert.assertEquals("Error in launching Calendar app", true ,continueBtn.isDisplayed());
         continueBtn.click();
         utils.log().info("Clicked on continue Button");
+        Assert.assertEquals("Add new event button is not loaded", true ,addNewEvent.isDisplayed());
         addNewEvent.click();
         utils.log().info("Clicked on add new meeting");
 
     }
 
     public void enterMeetingName(String MeetingTitle){
+        Assert.assertEquals("Meeting Name filed is not loaded on UI", true ,meetingName.isDisplayed());
         meetingName.sendKeys(MeetingTitle);
         utils.log().info("Enter the meeting name as: -> Recurring-Team Catch Up");
     }
 
     public void setMeetingTime(String hours){
-
+        Assert.assertEquals("Start time button is not loaded on UI", true ,startTime.isDisplayed());
         startTime.click();
         utils.log().info("Clicked on Start element to set Start Date and Time");
+        Assert.assertEquals("Date picked scroll is not loaded on UI", true ,datePicker.get(0).isDisplayed());
         datePicker.get(0).sendKeys("Aug 24");
         utils.log().info("Set Start Date as Tomorrow's Date");
         datePicker.get(0).sendKeys(Keys.TAB);
@@ -94,19 +98,22 @@ public class CalendarAllPage extends BasePage{
     }
 
     public void setRepeatFrequency(){
+        Assert.assertEquals("Repeat meeting button is not loaded on UI", true ,repeatElm.isDisplayed());
         repeatElm.click();
-        utils.log().info("Clicked on repeat element");
+        utils.log().info("Clicked on repeat meeting element");
+        Assert.assertEquals("Custom repeat button is not loaded on UI", true ,customElm.isDisplayed());
         customElm.click();
-        utils.log().info("Clicked on custom element");
+        utils.log().info("Clicked on custom element to set meeting frequency");
         frequencyElm.click();
         utils.log().info("Clicked on frequency element");
+        Assert.assertEquals("Frequency scroll is not loaded on UI", true ,freqScroll.isDisplayed());
         freqScroll.sendKeys("Weekly");
         utils.log().info("Scroll and select weekly meeting");
 
     }
 
     public void alternateDay(){
-
+        Assert.assertEquals("Week Days is not loaded on UI", true ,monElm.isDisplayed());
         monElm.click();
         utils.log().info("Monday selected from UI");
         wedElm.click();
@@ -116,6 +123,7 @@ public class CalendarAllPage extends BasePage{
     }
 
     public void saveMeeting(){
+        Assert.assertEquals("Repeat navigation button is not loaded", true ,repeatBtn.isDisplayed());
         repeatBtn.click();
         utils.log().info("Navigate back by clicking repeat button");
         newEventBtn.click();
